@@ -6,7 +6,9 @@
 
 > *Hey everyone! Welcome to my GitHub page. May your coding journeys be smooth and free of bugs (if you find them, get the bug spray).*
 ---
-## A little bit about *moi*.
+## 🏖️ A little bit about *moi*.
+> I'm a **Graphic Information Technology (Full Stack Web Development)** major at *Arizona State University**. I've been interested in coding since *MySpace* and grew interested in graphic design in 2012 through *Tumblr*.
+> 
 > I'm from the **Northern Mariana Islands**, a U.S. Territory spanning across 14 islands in the west of the Pacific Ocean. Laughably, I do not enjoy the beach as much as I used to, even though it's a 15-minute drive from home, so I've been a hermit since 2020. With my degree, I hope to learn more about graphic design and web design and grow as a professional graphic designer and web designer/developer in the future.
 >
 > My main hobbies are:
@@ -14,13 +16,19 @@
 > 2. Gaming (on PC)
 > 3. Drawing (Procreate)
 
-### What am I working on in life right now?
+### ✔️ What am I working on in life right now?
 > - [ ] Learning to draw faces
 > - [ ] Writing the first draft of a sci-fi/fantasy novel
 > - [ ] Working on getting my BS in Graphic Information Technology
 > - [x] This extra credit assignment.
 
+### 📋 Skills I'm working to grow:
+> - [ ] Web design/development: Proper HTML/CSS/JavaScript
+> - [ ] Graphic design: branding, mastering a design trend
+> - [ ] Learn a new coding language like Python or C++
 
+### 📱 Socials!
+> <a href="https://www.linkedin.com/in/andrew-mendiola-616603b7/">LinkedIn</a>
 
 
 <!--
