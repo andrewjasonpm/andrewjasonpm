@@ -1,8 +1,10 @@
 ## ✨ Welcome to my GitHub! ✨
-<img src="https://ibb.co/7Bx7ZRR" />
+
+<img src="https://i.ibb.co/MKyqtGG/IMG-1124.jpg">
+
 > *Hey everyone! Welcome to my GitHub page. May your coding journeys be smooth and free of bugs (if you find them, get the bug spray).*
 ---
-# A little bit about *moi*.
+## A little bit about *moi*.
 > I'm from the **Northern Mariana Islands**, a U.S. Territory spanning across 14 islands in the west of the Pacific Ocean. Laughably, I do not enjoy the beach as much as I used to, even though it's a 15-minute drive from home, so I've been a hermit since 2020. With my degree, I hope to learn more about graphic design and web design and grow as a professional graphic designer and web designer/developer in the future.
 >
 > My main hobbies are:
@@ -10,12 +12,13 @@
 > 2. Gaming (on PC)
 > 3. Drawing (Procreate)
 
-# What am I working on in life right now?
+### What am I working on in life right now?
 > - [ ] Learning to draw faces
 > - [ ] Writing the first draft of a sci-fi/fantasy novel
 > - [ ] Working on getting my BS in Graphic Information Technology
 > - [x] This extra credit assignment.
 
+[![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=andrewjasonpm)](https://github.com/andrewjasonpm/github-readme-stats)
 
 
 <!--
