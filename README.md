@@ -1,6 +1,8 @@
 ## ✨ Welcome to my GitHub! ✨
 
-<img src="https://i.ibb.co/MKyqtGG/IMG-1124.jpg">
+<img src="https://i.ibb.co/ycw0mB98/IMG-1354.jpg" alt="IMG-1354" border="0">
+
+*(Photo: CoEx Mall - Seoul, South Korea ; 03.2019)* 
 
 > *Hey everyone! Welcome to my GitHub page. May your coding journeys be smooth and free of bugs (if you find them, get the bug spray).*
 ---
@@ -18,7 +20,7 @@
 > - [ ] Working on getting my BS in Graphic Information Technology
 > - [x] This extra credit assignment.
 
-[![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=andrewjasonpm)](https://github.com/andrewjasonpm/github-readme-stats)
+
 
 
 <!--
